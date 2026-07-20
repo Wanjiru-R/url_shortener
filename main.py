@@ -4,7 +4,7 @@ import pyshorteners
 
 root = Tk()
 root.title('Link Shortener')
-# root.iconbitmap('c:/gui/codemy.ico')
+
 root.geometry("500x500")
 
 def shorten():
